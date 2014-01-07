@@ -1,0 +1,14 @@
+				<div id="checkboxes1" data-role="fieldcontain">
+                <fieldset data-role="controlgroup" data-type="vertical">
+                    <legend>джЏ «б√ќ »«—</legend>
+                    <input id="VioCHK_001" name="" data-theme="c" type="checkbox" /><label for="VioCHK_001">ёѕ—« </label>
+                    <input id="VioCHK_002" name="" data-theme="c" type="checkbox" /><label for="VioCHK_002"> Ќ’нбн</label>
+                    <input id="VioCHK_003" name="" data-theme="c" type="checkbox" /><label for="VioCHK_003">«бёѕ—«  ж«б Ќ’нб «бѕ—«”н</label>
+                    <input id="VioCHK_004" name="" data-theme="c" type="checkbox" /><label for="VioCHK_004">ћ«гЏннд</label>
+                    <input id="VioCHK_005" name="" data-theme="c" type="checkbox" /><label for="VioCHK_005">«дћбн“н</label>
+                    <input id="VioCHK_006" name="" data-theme="c" type="checkbox" /><label for="VioCHK_006">гЏбгнд</label>
+					<input id="VioCHK_007" name="" data-theme="c" type="checkbox" /><label for="VioCHK_007">гже»…</label>
+					<input id="VioCHK_008" name="" data-theme="c" type="checkbox" /><label for="VioCHK_008">Џ—»н</label>
+					<input id="VioCHK_009" name="" data-theme="c" type="checkbox" /><label for="VioCHK_009">гедѕ”нд</label>					
+                </fieldset>
+            </div>
